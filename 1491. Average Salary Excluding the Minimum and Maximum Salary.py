@@ -37,6 +37,8 @@ def average(salary):
 
     net = total - less
 
-    avg = net/(len(salary)-2)
+    avg = net / (len(salary) - 2)
 
     return avg
+
+
